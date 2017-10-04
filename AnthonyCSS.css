@@ -217,6 +217,16 @@ p{
 	padding-right: 10px;
 }
 
+/*Interests stuff*/
+.Ioork h2{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 44px;
+	font-weight: 300;
+	color: #22A39F;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
 
 /*Resume stuff*/
 .Roork h2{
