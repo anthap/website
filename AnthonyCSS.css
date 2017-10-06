@@ -46,13 +46,14 @@ a:hover{
 .myface{     
 	/*background-image: url("http://allaboutuarts.ca/wp-content/uploads/2012/07/placeholder_2.jpg");*/
 
-	background-image: url("images/DSC02198(2)-min.jpg");
+	/*background-image: url("images/DSC02198(2)-min.jpg");*/
+	background-image: url("images/IMG_3006-min.jpg");
 	background-repeat:no-repeat;
-	background-size:cover;
+	background-size: 100% 100%;
 	
-	height: 625px; /*Adjust this when the background picture is changed*/
+	height: 675px; /*Adjust this when the background picture is changed*/
 
-	margin-top: 55px; /*Pushes the image down so the header does not cover it*/*/
+	margin-top: 55px;/*Pushes the image down so the header does not cover it*/
 
 }
 
@@ -198,8 +199,9 @@ p{
 .Poork{
 	font-family: 'Open Sans', sans-serif;
 	color: #727878;
-	width: 800px;
+	width: 1000px;
 	margin: auto;
+	/*text-align: center;*/ /*Only uncomment if pictures are in a multiple of */
 }
 
 .Poork h2{
@@ -211,11 +213,11 @@ p{
 
 .project-block{
 	width: 31%;
-	text-align: left;
+	text-align: center;
 	display: inline-block;
 	vertical-align: top;
-	padding-right: 10px;
-	padding-bottom: 10px;
+	padding-right: 12px;
+	padding-bottom: 12px;
 }
 
 /*Interests stuff*/
