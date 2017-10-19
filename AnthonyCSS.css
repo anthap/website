@@ -288,7 +288,7 @@ p{
 	font-weight: 300;
 	color: #ffffff;
 	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 }
 
 
@@ -298,6 +298,8 @@ p{
 	display: inline-block;
 	margin: auto;
 	width:100%;
+	height: 90px;
+
 }
 
 .logos-box-linkedin {
@@ -310,7 +312,7 @@ p{
 .logos-box-mail {
 	text-align: center;
 	display: inline-block;
-	padding-right: 00px;
+	padding-right: 0px;
 	padding-bottom: 12px;
 }
 
